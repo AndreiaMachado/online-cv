@@ -44,6 +44,7 @@ career-profile:
       My name is Andreia Raquel Filipe Machado. Last year I finished the master's degrees in Informatics Engineering.
       
       I am a communicative person, love teamwork and have an excellent sense of responsibility and organisation. I love to learn new technologies/frameworks always seeking the acquisition of new knowledge that help me to improve the activities entrusted to me and as a professional.
+      
       My interest areas are backend and fullstack development.
 education:
     - degree: MSc in Informatics Engineering
@@ -162,3 +163,6 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
