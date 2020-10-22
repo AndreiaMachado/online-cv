@@ -96,20 +96,26 @@ skills:
       - name: C/C++
         level: 70%
 softskills:
-    title: Skills &amp; Proficiency
+    title: Soft Skills
 
     toolset:
-      - name: Node.js & Express.js
+      - name: Organized
+      
+      - name: Flexibility
+      
+      - name: Responsability
+      
+      - name: Professionalism
+      
+      - name: Communication
+      
+      - name: Teamwork
 
-      - name: Java
+      - name: Under pressure worker
 
-      - name: Python
-
-      - name: HTML & CSS & JavaScript
-
-      - name: Angular
-
-      - name: C/C++
+      - name: Time management 
+      
+      - name: Dedication
 
 
 footer: >
