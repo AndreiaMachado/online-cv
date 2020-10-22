@@ -256,7 +256,15 @@ p {
     }
 }
 
-
+.skillset-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+	
+    .item-badge {
+        margin-bottom: 15px;
+        overflow: hidden;
+    }
+}
 
 
 .footer {
