@@ -71,28 +71,15 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Researcher
+      time: 2018 - 2019
+      company: IEETA - Institute of Electronics and Informatics Engineering of Aveiro
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Investigation grant under the project "BioDepura: desenvolvimento de metodologias de depuração de moluscos bivalves adaptadas aos requisitos fisiológicos de cada espécie" that fits the dissertation developed to obtain the master's degree.
+        
+        Development of a software applied to the automation and control of bivalve mollusc purification modular units.
+        
+        Technologies: Arduino, Waspmote, MQTT, Node-RED, Node.js, Express.js, MongoDB, HTML, CSS, JavaScript, Durandal.js, Knockout.js, jQuery, Bootstrap and PhoneGap
 projects:
     title: Projects
     intro: >
