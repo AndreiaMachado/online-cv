@@ -58,6 +58,15 @@ education:
 experiences:
     - role: Software Developer
       time: 2020 - Present
+      company: Altice Labs, Aveiro
+      details: |
+        Java Backend Developer.
+        
+        Development of a virtual Broadband Network Gateway (vBNG).
+        
+        Tecnologies: Java, Docker, Jenkins
+    - role: Software Developer
+      time: 2020 - Present
       company: Outsoft, Aveiro
       details: |
         FullStack Developer.
