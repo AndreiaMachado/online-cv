@@ -64,7 +64,7 @@ experiences:
         
         Development of a virtual Broadband Network Gateway (vBNG).
         
-        Tecnologies: Java, Docker, Jenkins
+        Tecnologies: Java, Docker, Kubernetes, Jenkins
     - role: Software Developer
       time: 2020 - Present
       company: Outsoft, Aveiro
